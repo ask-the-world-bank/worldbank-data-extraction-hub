@@ -15,14 +15,16 @@ def flatten_json(data, prefix=''):
         else:
             flat_data[new_key] = str(value)
     return flat_data
-
+    
 def clean_text(text):
     # Check if text is a string
     if isinstance(text, str):
+        # HTML unescape (not necessary here)
         cleaned_text = html.unescape(text)
-        cleaned_text = cleaned_text.replace('\n', '').strip()
-        # cleaned_text = ' '.join(cleaned_text.split())
-        cleaned_text = re.sub(r'\s+', ' ', text)
+        # Remove newlines and leading/trailing whitespace
+        cleaned_text = cleaned_text.replace('\n', ' ').strip()
+        # Remove extra whitespace
+        cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
         return cleaned_text
     else:
         # If not a string, return the original value
@@ -35,8 +37,8 @@ def extract_page_numbers(doc_data):
         try:
             # Download PDF file locally
             pdf_filename = os.path.basename(pdf_url)
-            pdf_path = os.path.join('pdf_files', pdf_filename)
-            os.makedirs('pdf_files', exist_ok=True)
+            pdf_path = os.path.join('meteorology_observation_pdf_files', pdf_filename)
+            os.makedirs('meteorology_observation_pdf_files', exist_ok=True)
             with open(pdf_path, 'wb') as f:
                 response = requests.get(pdf_url)
                 response.raise_for_status()  # Raise an exception for HTTP errors
@@ -46,24 +48,22 @@ def extract_page_numbers(doc_data):
             with fitz.open(pdf_path) as pdf_document:
                 last_page_number = len(pdf_document)
             
-            # Delete the downloaded PDF file after processing
-            # os.remove(pdf_path)
-            
             return last_page_number
         except Exception as e:
             print(f"Error processing PDF: {e}")
-            return 'null'  # Return 'null' if unable to process the PDF
+            return ''  # Return 'null' if unable to process the PDF
     else:
-        return 'null'
+        return ''
 
 
 try:
     url = "https://search.worldbank.org/api/v2/wds"
     params = {
-        "qterm": "hepatitis",
+        "qterm": "meteorology observation",
         "format": "json",
-        "fl": "issn,txturl,abstracts,guid,docna,count,authr,colti,display_title,docdt,docty,geo_reg,id,isbn,keywd,lang,majtheme,pdfurl,subsc,subtopic,theme,topic,url",
-        "rows": "1"
+        "fl": "abstracts,authr,colti,count,display_title,docdt,docna,docty,geo_reg,guid,id,isbn,issn,keywd,lang,majdocty,majtheme,pdfurl,subsc,subtopic,theme,topic,url",
+        "rows": "1",
+        "lang_exact": "English"
     }
 
     # Fetch total number of rows
@@ -102,9 +102,9 @@ try:
             df = df.applymap(clean_text)
 
             # Store cleaned data in a CSV file
-            df.to_csv('hepatitis.csv', index=False)
+            df.to_csv('meteorology-observation.csv', index=False)
 
-            print("Data saved to hepatitis.csv")
+            print("Data saved to meteorology-observation.csv")
         else:
             print("Error fetching all rows:", response.status_code)
     else:
