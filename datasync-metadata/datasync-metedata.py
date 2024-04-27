@@ -76,39 +76,40 @@ try:
         # Make a single API call to fetch all rows
         params['rows'] = str(total_rows)
         response = requests.get(url, params=params)
-        # if response.status_code == 200:
-        #     json_data = response.json()
+        if response.status_code == 200:
+            json_data = response.json()
 
-        #     # Flatten JSON data and convert it to DataFrame
-        #     flattened_data = []
-        #     for doc_id, doc_data in json_data['documents'].items():
-        #         print('doc_id: ', doc_id)
-        #         if doc_id == "facets":
-        #             continue  # Skip processing this document
+            # Flatten JSON data and convert it to DataFrame
+            flattened_data = []
+            for doc_id, doc_data in json_data['documents'].items():
+                print('doc_id: ', doc_id)
+                if doc_id == "facets":
+                    continue  # Skip processing this document
                 
-        #         flattened_doc_data = flatten_json(doc_data)
-        #         flattened_doc_data['document_id'] = doc_id 
-        #         flattened_doc_data['pdf_page_numbers'] = extract_page_numbers(doc_data)
-        #         print('pdf_page_numbers: ', flattened_doc_data['pdf_page_numbers'])
+                flattened_doc_data = flatten_json(doc_data)
+                flattened_doc_data['document_id'] = doc_id 
+                flattened_doc_data['pdf_page_numbers'] = extract_page_numbers(doc_data)
+                print('pdf_page_numbers: ', flattened_doc_data['pdf_page_numbers'])
                 
-        #         flattened_data.append(flattened_doc_data)
+                flattened_data.append(flattened_doc_data)
                 
-        #         # Delete the downloaded PDF file after processing
-        #         # os.remove(pdf_path)
+                # Delete the downloaded PDF file after processing
+                # os.remove(pdf_path)
                 
-        #     df = pd.DataFrame(flattened_data)
+            df = pd.DataFrame(flattened_data)
 
-        #     # Clean data for all columns
-        #     df = df.applymap(clean_text)
+            # Clean data for all columns
+            df = df.applymap(clean_text)
 
-        #     # Store cleaned data in a CSV file
-        #     df.to_csv('meteorology-observation.csv', index=False)
+            # Store cleaned data in a CSV file
+            df.to_csv('meteorology-observation.csv', index=False)
 
-        #     print("Data saved to meteorology-observation.csv")
-        # else:
-        #     print("Error fetching all rows:", response.status_code)
+            print("Data saved to meteorology-observation.csv")
+        else:
+            print("Error fetching all rows:", response.status_code)
     else:
         print("Error fetching total:", response.status_code)
 
 except Exception as error:
     print('Exception occurred:', error)
+
