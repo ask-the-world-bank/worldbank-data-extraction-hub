@@ -1,0 +1,790 @@
+p r o g r a m
+Eliminating Hepatitis C from Egypt: 2017 Update 
+on Current Trends and Policy Recommendations
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+2
+
+Eliminating Hepatitis C from Egypt:
+2017 Update on Current Trends and Policy 
+Recommendations
+Policy Brief
+3
+
+1. Overview of Recent Developments
+Egypt is making historic headway against Hepatitis C, one of its most insidious 
+killers. In 2016, roughly 40,000 Egyptians died of the disease, and nearly 4.5-
+5 million are currently infected—the highest burden in the world for Egypt’s 
+population size.(1) But the landscape has changed dramatically in the past few 
+years. Following successful negotiations between the Egyptian government and 
+drug makers in 2014, breakthrough medications known as direct-acting antiviral 
+agents (DAAs) have become widely available at markedly reduced prices.
+Since then, more than a million Egyptians have been treated, with a cure 
+rate exceeding 95% in many settings.(2) Such rapid progress has brought Egypt 
+growing international attention, with some predicting that Egypt’s approach 
+might serve as a model for other low and middle-income nations facing similarly 
+large Hepatitis C burdens. In addition to lowering the cost of drugs, Egypt has 
+succeeded in opening new treatment centers, creating electronic portals to enroll 
+patients, and expanding its domestic pharmaceutical industry to ensure a steady 
+pipeline of affordable medications.
+These commitments, in turn, have raised political stakes inside Egypt and 
+encouraged even more ambitious targets: Egyptian President Abdel Fattah el-
+Sisi, in a series of high-profile speeches and statements over the past two years, 
+has spoken frequently of his dream to rid the country of the disease.
+Yet Egypt faces significant challenges toward meeting this ambitious goal. The 
+fact that one million people were treated so quickly reflects, to a large degree, 
+pent up demand: For years, Egyptians diagnosed with Hepatitis C had no good 
+treatment options, so when effective medications finally became available, many 
+rushed to get treatment. 
+(1) Estimates of the prevalence of Hepatitis C in Egypt vary by data set, year, and methodology. 
+The figure quoted here reflects findings by the Ministry of Health and Population (2015), Waked 
+et al (2014), and the Bank’s own modelling, adjusted for recent trends. 
+(2) See World Bank (2016), Treatment Program Policy Analysis. Note that cure rates vary 
+somewhat based upon treatment regimen and underlying patient characteristics, e.g. presence of 
+cirrhosis, history of prior treatment failure, etc.
+4
+
+The situation today looks quite different for the millions who still need treatment, 
+as most have yet to be diagnosed and are unlikely to seek treatment on their own. 
+As a result, Egypt faces pressure to take a more proactive approach to finding 
+infected individuals—through screening programs and other measures—to 
+ensure that the program’s early momentum continues.
+Beginning in 2015, the World Bank began collaborating with the Egyptian 
+government to provide technical advice on the country’s efforts to eliminate 
+Hepatitis C. This work builds upon the country’s National Viral Hepatitis Plan of 
+Action, which outlined a series of strategic goals and policies for eliminating the 
+disease. While offering a strong foundation, the plan lacked specific projections 
+on the cost and impact of various policy choices over the short and long-term 
+that policymakers would need to plan their response. To address those gaps, over 
+the past year, the Bank, in close coordination with the government and other 
+stakeholders, has undertaken a series of policy analyses and economic modelling 
+exercises, the results of which are summarized and updated here.
+The Bank’s findings sketch out a series of strategies and actions that could 
+inform Egypt’s drive toward eliminating Hepatitis C. They provide estimates of 
+funding commitments that may be needed to make the vision of a Hepatitis C-free 
+Egypt a reality, and offer a realistic timeline for carrying out such efforts given 
+existing constraints. With appropriate resources, strategies, and continued policy 
+leadership, Egypt can build upon recent progress and maintain its momentum 
+toward eliminating this disease. 
+ 
+5
+
+2. Background: 
+Assessing the Burden of Hepatitis C in Egypt
+Egypt has the highest burden of Hepatitis C in the world. As of 2015, roughly 
+7% of the Egyptian adult population (age 15-59) was infected.(3) Many of these 
+infections, unfortunately, occurred in the 1960-1980s as part of a nationwide 
+campaign to eradicate schistosomiasis, a parasitic worm found in the Nile River 
+that can cause organ failure and cancer if left untreated; as part of that campaign, 
+more than 6 million people were treated with injectable therapies, often with 
+reused and inadequately sterilized glass needles.(4) As a result, Hepatitis C, which 
+was not discovered until the late 1980s, spread rapidly through the population. 
+The disease burden today reflects this legacy: More than one in the five Egyptians 
+age 50-59 are a carrier of Hepatitis C, compared to less than 1% of children and 
+teenagers (figure 1). The disease is also much more common among Egyptians 
+who are poor and rural-dwelling, particularly those living in the Delta (figure 1).
+Figure 1: Age and Geographic Distribution of Hepatitis C in Egypt
+0
+5
+
+10
+15
+
+20
+25
+
+1-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+Percent Infected (positive RNA test) 
+Prevelance of Hepatitis C in Egypt,
+by age group
+Source: Ministry of Health
+22% 
+of 55-59 
+year olds
+infected
+8-10%
+5-8%
+3-5%
+<3%
+FG
+FG
+FG
+UE
+FG
+Prevalence (%)
+UG
+UG
+LE
+Geographic Distribution of Hepatitis C
+source:ministry of health and population; 2015 egyptian demographic and health survey; kandeel 
+et al 2017
+(3) World Bank (2017). Egypt’s Viral Hepatitis Program: Burden & Response, an Economic 
+Analysis.
+(4) Frank, C., et al., The role of parenteral antischistosomal therapy in the spread of hepatitis C 
+virus in Egypt. The Lancet, 2000. 355(9207): p. 887-891.
+6
+
+Yet Hepatitis C is not just a problem of historical infections, as nearly 150,000 
+Egyptians were estimated to have been newly infected in 2016 alone. The rate 
+of new infections—also thought to be the highest in the world—reflects both 
+the large reservoir of people carrying the disease as well as the continued role 
+of unsafe medical practices, which increase the risk of transmission. Efforts to 
+improve blood safety at blood banks and to implement stronger infection control 
+policies in hospitals and other health settings are underway, but significant work 
+remains.
+The direct health impacts of Hepatitis C in Egypt are immense. Hepatitis C is a 
+chronic, often dormant infection, with most individuals living asymptomatically 
+for decades before developing complications. These complications, unfortunately, 
+are becoming increasingly common as Egypt’s infected population ages. Roughly 
+40,000 Egyptians will die of Hepatitis C-related complications this year—35,000 
+from liver failure, another 5,000 from liver cancer—making it Egypt’s third-
+leading cause of death, trailing only cardiovascular disease and stroke (figure 2).(5)
+ A fraction of patients will be eligible for a liver transplant, but given how 
+costly and resource-intensive transplantation can be, few will receive 
+one; only 400-500 liver transplants are performed in Egypt every year.(6) 
+ Meanwhile, the percentage of Egyptians dying from Hepatitis C has steadily 
+increased over the years. Today, 9.1% of all deaths among Egyptian males 
+are related to Hepatitis C, up from 5.8% in 1990; among women, the number 
+has also risen, from 4.4 to 5.6% over the same time period (figure 2).(7)
+(5) Institute for Health Metrics and Evaluation.
+(6) Figures retrieved from the Global Observatory on Organ Donation and Transplantation 
+database. 
+(7)  World Bank (2017). Egypt’s Viral Hepatitis Program: Burden & Response, an Economic 
+Analysis.
+7
+
+Figure 2: Mortality Patterns Associated with Hepatitis C in Egypt
+5.8
+9.1
+4.4
+5.6
+0
+1
+2
+3
+4
+5
+6
+7
+
+8
+9
+10
+1990
+2015
+Perecent of total mortality (%)
+Deaths Attributable to Hep C (%),
+1990 vs. 2015
+men
+women
+40,000 
+deaths
+35,000 
+Cirrhosis
+5,000
+Cancer
+=1,000 people
+The budget impacts are equally large. Given the size of its infected 
+population, Egypt is already spending hundreds of millions of dollars a 
+year on Hepatitis C, mostly on late-stage complications. In 2017, the Bank’s 
+modelling shows that Egypt is expected to spend an estimated $463 million 
+on Hepatitis C, nearly half of which ($230 million) will be on the late-
+stage liver failure (decompensated cirrhosis, liver transplants) or cancer.(8) 
+ Based upon these projections, if Egypt continues on its current treatment path, 
+it will spend nearly $4 billion on Hepatitis C by 2030 (figure 3). These costs 
+reflect direct health spending only. When one takes into account the economic 
+productivity lost due to premature deaths from Hepatitis C, estimates suggest 
+that Egypt in 2015 lost nearly $1 billion in GDP alone.(9) 
+(8)  Spending estimates are based on a policy scenario that assumes 5% of the adult population 
+is screened annually, in addition to demand-driven treatment. See section 4 of this brief for 
+additional details.
+(9)  World Bank (2017). Egypt’s Viral Hepatitis Program: Burden & Response, an Economic 
+Analysis.
+8
+
+Figure 3. Estimated Direct Health Costs of Hepatitis C Under
+ Current Policy Trends
+Figure 3. Estimated Direct Health Costs of Hepatitis C Under
+Current Policy Trends
+$463 million in total
+$204 million on decompensated cirrhosis
+Treatment
+11%
+Testing
+14%
+Compensated 
+cirrhosis
+16%
+Decompensate
+d cirrhosis
+44%
+HCC
+1%
+Liver 
+transplants
+5%
+Other
+9%
+Note that these figures are based on a scenario that assumes 5% of the adult population is screened annually, 
+with all those testing positive receiving appropriate treatment, in addition to demand-driven treatment. 
+Estimates include costs for testing, treatment, and complications related to hepatitis C, including cirrhosis, 
+liver cancer, and transplantation. 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+US$ Billions
+Projected Cumulative Spending on Hepatitis C 
+Under Current Policies
+ 
+ 
+ 
+Egypt will 
+spend nearly
+ $4 billion
+ on Hep C
+  through
+ 2030*
+9
+
+3. Tackling the Challenge:
+Political and Policy Leadership
+Efforts to address to Hepatitis C in Egypt have been building for years, but the 
+Egyptian government opened a remarkable new front against the disease in 2014, 
+when it successfully negotiated with Gilead Sciences, a U.S.-based drug maker, 
+to make the company’s new Hepatitis C treatment available in Egypt at greatly 
+reduced prices. The drug, Sofosbuvir, was approved in the United States in 2013 
+with cure rates exceeding 90%, representing a major advance over previous 
+interferon-based therapy, which was costly and worked for only about half of the 
+patients who took it. But Sofosbuvir’s price tag was high: more than $80,000 for 
+a 12-week curative course. Egypt, following negotiations with Gilead, was able 
+to secure the drug for only $900, a deal that opened up the possibility of treating 
+infected Egyptians in large numbers.(10)
+Since those initial negotiations, the government of Egypt has taken major steps 
+to get medications into the hands of patients (figure 4). Building upon the Viral 
+Hepatitis Plan of Action, the government opened 56 new treatment centers by 2016, 
+with plans to reach 100 in total. It developed a web-based registration system that 
+allows Egyptians to enroll for testing and, if needed, receive treatment. In an effort 
+to reduce drug prices even further, the government has supported the development 
+of the domestic pharmaceutical industry. More than a dozen Egyptian companies 
+are now licensed to manufacture DAAs, leading to further drops in prices. The 
+three-month course (of select regimens) now costs less than $100, and apart from 
+a $2 user fee charged at the treatment centers, the medicines are provided free of 
+charge for any Egyptian seeking treatment in public facilities.(11)
+(10) Fick, M. and Hirschler, B. Gilead offers Egypt new hepatitis C drug at 99 percent discount. 
+Reuters. March 21, 2014.
+(11) See World Bank (2017), Egypt’s Viral Hepatitis Program: Burden and Response, An Economic 
+Analysis, for additional costing information. 
+10
+
+Figure 4. Key Steps in Expanding Treatment Access in 2016
+Procurement
+Treatment Centers
+Treatment Protocols
+Treatment Centers
+Treatment Centers
+Enrollment
+Treatment Protocols
+As of 
+2016
+Procurement
+Treatment Centers
+152
+New hepatitis treatment 
+centers opened, with 
+plans to expand to 100
+1.8
+million
+People registered for 
+treatment through new 
+web-based portal
+Domestic companies 
+with manufacturing 
+licenses for Sofosbuvir
+15
+Mandated follow-up visits 
+at 1,3 and 6 months to 
+confirm remission 
+3
+Source: World Bank(2017), Treatment Program Policy Analysis.
+Although more than a million Egyptians have now been treated under the new 
+program, recent reports suggest the momentum may be slowing. When DAAs 
+became widely available in Egypt, in 2015, most Egyptians diagnosed with 
+Hepatitis C rushed to get treated. Demand was so great that many treatment 
+centers were overwhelmed by long wait times and hundreds of patients a day 
+seeking treatment. By the end of 2016, however, these wait times had largely 
+resolved; most patients who wanted treatment had received it. Yet according 
+to estimates, 4-5 million Egyptians still carry the disease and have yet to seek 
+treatment, likely because they do not know they are infected.
+To ensure infected individuals continue to receive treatment, Egypt is beginning 
+to scale up efforts to implement screening programs, which will be critical for 
+eliminating the disease within desired time frames. Working with the World 
+Bank, authorities in early 2017 carried out a Hepatitis C pilot screening program 
+in the Upper Nile region, using teams of community health workers traveling 
+through villages to screen for the virus. In three months, more than 1 million 
+people were tested, suggesting that screening large numbers in relatively short 
+time periods is feasible if screening programs are implemented in a strategic and 
+well-planned manner. Additional screening activities are now underway in Cairo. 
+Today, Egypt stands poised to continue its march toward eliminating Hepatitis 
+C, but critical decisions must be made about the direction of the program. 
+11
+
+Although current approaches will continue to have a major public health impact, 
+expanding screening over the next several years could greatly accelerate progress 
+toward a Hepatitis C-free Egypt and rapidly cut new infection rates and the 
+number of chronic carriers. Yet such a bold course of action will also require 
+greater up-front investments, as a national screening program and supportive 
+measures will demand greater initial spending to save more lives (and potentially 
+money) and reduce future suffering. 
+The following sections summarize a series of in-depth reports produced by 
+the World Bank to assist Egyptian authorities as they weigh their options. The 
+reports are intended to help policymakers make informed decisions about the 
+potential impacts and costs of various approaches as they move forward on the 
+national effort to eliminate Hepatitis C from Egypt.
+12
+
+4. Choosing the Best Path Forward: 
+Updated Economic & Impact Assessments
+Since 2015, the World Bank has been engaged with the Egyptian government to 
+unlock the potential of its Viral Plan of Action. As part of its technical assistance, 
+the Bank has carried out multiple in-depth studies of Egypt’s Hepatitis C program, 
+analyzing epidemiological, policy, economic, and fiscal data to help authorities 
+prioritize their actions as they seek to eliminate the disease. These studies have 
+included:
+■ A costing study of the various components of the national Viral Plan 
+of Action, focusing on the costs of various treatment, care, and prevention 
+strategies
+■ Cost-effectiveness analyses of treatment and screening scenarios to identify 
+the relative costs and benefits of each
+■ Economic analyses of targeted prevention strategies, including improving 
+blood safety and infection control
+To establish a solid foundation for this work, in 2016, the Bank, working closely 
+with Egyptian stakeholders and the World Health Organization, conducted 
+a costing exercise of the different components of Egypt’s Plan of Action for 
+eliminating Hepatitis C. Participants reviewed efforts undertaken by other 
+countries to determine the cost of similar programs; collected cost information 
+in Egypt based upon market rates; and convened workshops involving a wide 
+spectrum of stakeholders (World Bank, WHO, Ministry of Health, and other 
+academic and civil society technical and clinical experts) to produce consensus 
+findings.
+Building upon this work, the World Bank modelled multiple treatment 
+and screening scenarios, examining the costs and impacts (number treated, 
+reduction in chronic carriers, rate of new infections, and deaths averted) of each. 
+Five scenarios were initially modelled; please see World Bank (2017), Burden & 
+Response: An Economic Analysis, for more details. A subset of these scenarios 
+are briefly described in Table 1 below, along with an additional scenario, labeled 
+13
+
+“Current Path,” which reflects the Bank’s best estimate of current policies in 
+Egypt given the rapidly changing landscape for screening and treatment. This 
+updated scenario aims to capture these late-breaking developments, while also 
+demonstrating the model’s ability to adapt to evolving conditions and policies.
+Table 1: Description of Modelled Policy Scenarios
+Scenario
+Description
+Treatment Only
+This scenario models what would happen if 
+demand-driven treatment policies were continued 
+but no efforts were made to implement or scale up 
+screening.
+“CURRENT PATH” 
+(5% Screening and 
+Treatment)
+This scenario reflects the Bank’s best estimate of 
+what is happening in Egypt today. With screening 
+activities beginning in the first half of 2017, the 
+Bank projects that Egypt might be able to screen 
+up to 5% of the adult population this year (and 
+in subsequent years), in addition to continuing 
+demand-drive treatment.
+10% Screening 
+(and Treatment)
+Under this scenario, 10% of the adult population 
+would be screened annually beginning in 2017, and 
+all individuals who screen positive would receive 
+treatment in addition to those who seek treatment 
+on their own. 
+Elimination 
+This scenario aims to demonstrate what would be 
+required to eliminate Hepatitis C from Egypt in 
+an accelerated but realistic manner given existing 
+constraints. Under this scenario, 10% of the adult 
+population would be screened in 2017; screening 
+would be scaled up to 20% of the adult population 
+from 2018-2021, with the remainder screened 
+in 2022. As with the previous scenario, all who 
+screen positive will be treated with appropriate 
+medications.
+14
+
+Although continuing current policies (“Current Path” scenario) or modestly 
+scaling up treatment (10% screening scenario) will have major public health 
+benefits, both approaches will fall short of timely elimination. As shown in Table 
+2 below, the model predicts that continuing current treatment policies (“current 
+path”) will treat 2.5 million people and reduce the number of chronically infected 
+and new annual infections by roughly 50 percent by 2023. These accomplishments 
+would be laudable, but they would still leave 2.3 million people carrying the 
+disease by 2023, falling well short of elimination. Scaling up screening moderately, 
+as depicted in 10% screening scenario, would also fall short of elimination in the 
+short-to-medium term, but it would get Egypt further towards its goal. Under 
+this approach, 3.1 million people would receive treatment by 2023, chronic 
+infections would be reduced by 60 percent, and new infection rates cut by 65 
+percent, while an additional 23,000 deaths would be averted by 2030 compared 
+to current policies.
+Table 2. Sumary of Expected Impact of Various Approaches to
+ Screening and Treatment 
+Scenario
+# Treated by
+ 2023
+# Chronic 
+Carriers in 2023 
+(% decline from 
+2017 levels)
+#New Hep C 
+Infections in 
+2023 (% decline 
+from 2017 levels)
+#Hep C 
+Deaths 
+(Net) by 
+2030
+Treatment Only
+1,793,814
+
+2,970,467 (34%)
+76,603 (42%)
+449,922
+Current Path 
+(5% Screening)
+2,548,425
+2,310,830 (50%)
+58,946 (54%)
+420,193
+10% Screening
+3,115,077
+1,791,229 (60%)
+45,168 (65%)
+397,114
+
+Elimination
+4,500,588
+350,460 (92%)
+7,379 (94%)
+348,844
+15
+
+Eliminating Hepatitis C in a more rapid manner will require a substantial scale 
+up in screening, as depicted in the model’s more aggressive elimination scenario. 
+According to the model, Egypt would treat approximately 4.5 million people by 
+2023 under the elimination scenario—nearly 2 million more than what could 
+be expected under a 5% annual screening policy (Figure 5). Additionally, the 
+Bank estimates that the number of chronic carriers and the rate of new infections 
+would fall more than 90% from current levels by 2023, a much greater drop 
+than predicted under other scenarios. The results also predict that nearly 72,000 
+deaths from Hepatitis C will be avoided by 2030 compared to continuing current 
+policies.
+Figure 5. Comparison of Treatment Reach of Different Scenarios
+ through 2023
+Figure 5. Comparison of Treatment Reach of Different Scenarios 
+through 2023
+TREATMENT 
+GAP of about 
+2 million
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Number Treated (Millions)
+Millions
+Projected Number of Egyptians Treated, 2017-2023
+Elimination
+10% Screening
+Current Path
+Treatment Only
+Source: Modified from World Bank (2017), Burden and Response: An Economic Analysis.
+16
+
+Scaling up screening will require greater short-term spending, however. If Egypt 
+were to continue on its current path, it would spend an estimated $463 million on 
+Hepatitis C in 2017, and roughly $2.5 billion by 2023. By comparison, pursuing 
+elimination will cost an additional $530 million through 2022, as shown in the 
+shaded red in figure 6 below. These additional costs largely reflect the added 
+costs of testing (currently estimated at $6 per person for the initial antibody 
+screening test and $67 per person for the confirmatory RNA test), as well as the 
+costs of treating positive cases with new DAA therapies. (Alternatively, scaling 
+up screening more modestly, to 10% of the adult population annually, would cost 
+an extra $348 million through 2021, but also treat fewer people, as shown above.)
+Figure 6: Spending and Savings Under Different Screening Approaches
+Figure 6: Spending and Savings Under Different Screening 
+Approaches
+0
+100
+200
+300
+400
+500
+600
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Hep C Related Spending (US$ Millions)
+Projected Annual Spending, Current Path vs. Elimination, 
+2017-2030
+Current Path
+Elimination
+Elimination will cost $530m 
+more through 2022…
+But save an average of ~$60m annually
+from 2023 through 2030
+Source: Modified from World Bank (2017), Burden and Response: An Economic Analysis.
+From 2023 onward, the spending picture changes dramatically, as elimination 
+becomes cost-saving relative to current policies. On an annual basis, elimination 
+becomes the least costly scenario by 2023, as the number of patients needing 
+testing and treatment decreases (as most have been tested and treated), and 
+spending on late-stage complications falls. From 2023-2030, Egypt is projected to 
+spend approximately $60 million less every year on Hepatitis C-related care and 
+treatment under elimination than current policies (green area in figure 6). These 
+17
+
+savings nearly recoup the entire initial investment by the end of the decade. More 
+detailed analyses of the relative costs of other scenarios, and the cost-effectiveness 
+in terms of costs per infection and death averted, are provided in the full report. 
+Needless to say, all screening and elimination approaches are considered cost-
+effective by standard definitions, and even more so for older age groups, among 
+whom infection is much more common.
+Targeted prevention strategies also provide excellent returns on investment. 
+Because most new Hepatitis C infections in Egypt are caused by unsafe medical 
+or hygiene practices, certain individuals are at much higher risk, including those 
+frequently in hospitals or around blood, such as dialysis patients, healthcare 
+workers, and patients who need repeat blood transfusions. Using best available 
+data, the Bank examined three targeted prevention strategies—training health 
+workers with safety engineered devices, supplying blood banks with modern 
+analysis tools, and implementing infection control policies for dialysis patients—
+and found that all three strategies are highly cost-effective. For every $1 spent, 
+safety training for health workers provides a return on investment of more than 
+$12; updating blood banks, nearly $1.70; and implementing infection control 
+policies, nearly $1.38.(12) More details can be found in the full report.
+(12) World Bank (2017). Egypt’s Viral Hepatitis Program: Taking the National Plan of Action a 
+Step Forward.
+18
+
+5. Monitoring the Progress
+Although the advent of new medications has raised the hopes of a cure for millions 
+of Egyptians, eliminating Hepatitis C will require more than just treatment; it 
+also demands careful monitoring and coordination of program activities. As the 
+diagram below illustrates, the process of getting someone tested and treated—and 
+repeating that sequence for millions—is a multi-step undertaking, not only for 
+the patient but also for the agencies required to coordinate that effort. Egypt has 
+made some strides on this front, for example, creating a web-based registration 
+portal to enroll Ministry of Health and Population (MOHP) patients for testing 
+and treatment, and working to empower the Viral Hepatitis Administration 
+(VHA), which has been tasked with overseeing various activities related to the 
+elimination campaign.
+Figure 7. Screening, Treatment, and Prevention Pathways
+ for Eliminating Hepatitis C
+Find and Treat Existing Cases
+Prevent New Cases
+HEP C ELIMINATION
+Screening 
+Outreach
+Testing
+Registration
+Treatment
+Referral
+Diagnosis
+Reporting
+Treatment
+Cure 
+Confirmation
+Blood Safety
+Health 
+Worker 
+Safety
+Infection 
+Control
+2
+1
+Figure 7. Screening, Treatment, and Prevention Pathways for 
+Eliminating Hepatitis C
+19
+
+Yet current coordination and monitoring efforts remain underdeveloped.(13)
+Healthcare delivery in Egypt is highly fragmented, and a variety of agencies, 
+including the MOHP, quasi-government affiliated hospitals, university facilities, 
+private hospitals, and NGO-run facilities, currently offer their own screening and 
+treatment services. To the Bank’s knowledge, these institutions do not have an 
+established system for communicating with one another, nor do they report their 
+activities and results to a common agency. As a result, information about the 
+number of people being tested, treated, or cured is not being adequately captured, 
+and opportunities for identifying and fixing problems, not to mention tracking 
+progress towards elimination, are likely being missed (figure 8).
+Figure 8. Example of Fragmentation of Current Reporting Systems
+ for Hepatitis C
+Case Reporting System
+Treatment Centers
+University Hospitals
+Private Hospitals
+NGO Hospitals
+MOHP Centers and 
+Hospitals
+HIO and Affiliate 
+Hospitals
+Supreme Council for 
+Universities
+Directorate for 
+Curative Care
+MOPH Surveillance 
+Department
+X
+X
+X
+VHA
+X
+(13) World Bank, 2017. Egypt’s Viral Hepatitis Program: Strengthening the Monitoring Evalua-
+tion Capacity. Washington, D.C.: World Bank.
+20
+
+As part of its assistance, the Bank formally assessed the VHA’s capacity to 
+carry out monitoring and evaluation activities critical for the program’s success. 
+Through interviews with key informants and a detailed mapping of how various 
+actors communicate with one another, key gaps were identified that could 
+threaten the program’s long-term success and overall credibility of its findings.(14) 
+These include the following:
+■ Critical gaps in reporting and documentation. Although the MOHP’s web-
+based portal allows it to track patients, other entities carrying out screening and 
+treatment do not participate in a unified reporting system, making monitoring 
+and evaluation difficult and limiting opportunities for corrective action. 
+■ Limited oversight and coordination of prevention efforts.  Egypt’s system 
+of blood banking, for example, is also highly fragmented. The National Blood 
+Transfusion Service oversees 30% of the country’s blood banks, with the remainder 
+falling under the jurisdiction of other public and private hospital banks (or other 
+entities). There is currently no single entity responsible for collecting information 
+and enforcing standards for all of the country’s banks. Likewise, although the 
+VHA oversees infection control for MOHP hospitals, non-MOHP hospitals 
+report to their own infection control departments—and rarely to the VHA.
+Given these findings and the critical importance of having strong monitoring 
+and evaluation mechanisms in place to ensure the program’s success, the Bank 
+developed several recommendations for strengthening coordination and 
+reporting. These include:
+■ Developing a national screening program under the Viral Hepatitis Administration 
+to coordinate and standardize all screening activities and ensure that positive 
+cases are referred for treatment. 
+■ Establishing a unified reporting system under the VHA, which would collect 
+data on a regular basis from all treatment centers on the number of cases screened, 
+treated, and cured. 
+(14) World Bank, 2017. Egypt’s Viral Hepatitis Program: Strengthening the Monitoring Evalua-
+tion Capacity. Washington, D.C.: World Bank.
+21
+
+■ Establishing a National Blood Authority to ensure the quality and safety of the 
+blood supply and enforce reporting of all positive cases. 
+■ Standardizing infection control policies for all hospitals and regulating these 
+activities under a single inspection/auditing entity.
+■ Developing key performance indicators to closely monitor progress and allow 
+corrective action if certain elements of the program fall short of targets.
+22
+
+Conclusion
+Egypt today is at a critical juncture for addressing Hepatitis C.  In the span of 
+just a few years, it has treated more than a million patients and seriously raised the 
+possibility of eliminating the disease within a time frame of years rather than decades. 
+Political support has rallied behind these efforts, and international attention is high.
+As this updated report outlines, to maintain its momentum, Egypt could consider 
+expanding the scope of its treatment program to include a national screening 
+effort that would draw new patients into the pipeline. Without screening, the 
+number of patients receiving treatment will likely fall and significantly delay the 
+prospects of elimination. Scaling up screening could help treat nearly 2 million 
+more patients and rapidly cut the number of carriers and new infections, while 
+averting tens of thousands of additional deaths by 2030.
+More ambitious efforts will require additional spending initially, but the costs of 
+inaction will be increasingly burdensome. Egypt is already spending in excess of $450 
+million (US$) a year on Hepatitis C related costs, mostly on treatments for liver failure 
+and other end-stage complications. An investment of $530 million (US$) from 2017-
+2022 is projected to place Egypt on the path toward elimination while decreasing 
+annual spending on Hepatitis C thereafter, nearly paying itself off by the end of the 
+next decade. All screening scenarios modelled by the Bank are cost-effective by 
+standard definitions, and several pilot screening programs are already underway.
+As Egypt pushes to screen and treat millions of patients, it will also need to 
+enhance its ability to monitor and evaluate its efforts, as well as to strengthen 
+prevention activities. To build M&E capacity, it should consider empowering the 
+Viral Hepatitis Administration (VHA) such that all treatment centers—whether 
+government, private, NGO-run, or other—regularly report their activities to 
+the VHA. Additional policies and capacity building are needed to strengthen 
+reporting systems, safety measures, and quality oversight.
+With sound policies, continued leadership, appropriate financial commitments, 
+and a serious commitment to monitoring and evaluation, Egypt can continue 
+on the path toward eliminating Hepatitis C. This would be a remarkable 
+accomplishment in itself—and provide a global public good by pointing the way 
+forward for other countries. percent discount. Reuters, March 21, 2014.
+23
+
+References
+- Fick, M. and Hirschler, B. Gilead offers Egypt new hepatitis C drug at 99 - 
+Frank, C., et al., 2000, The role of parenteral antischistosomal therapy in the 
+spread of hepatitis C virus in Egypt. The Lancet, 355(9207): p. 887-891.
+- Institute for Health Metrics and Evaluation (IHME), 2016, “Global Burden 
+of Disease Study 2015 (GBD-2015) – Results,” obtained from httP;//ghdx.
+healthdata.org/gbd-results-tool on August, 27, 2016 (Seattle: IHME).
+- Kandeel A, Genedy M, El-Refai S, Funk A, Fontanet A, Talaat M. The 
+prevalence of hepatitis C virus infection in Egypt 2015: implications for future 
+policy on prevention and treatment. Liver Int. 2017 Jan;37(1):45-53.
+- Ministry of Health and Population, El-Zanaty and Associates, and Macro 
+International, 2015b, “Egypt Health Issues Survey 2015 [EHIS]” (Cairo: 
+Ministry of Health and Population, El-Zanaty and Associates, and Macro 
+International).
+- Waked, I., Doss, W., et al., 2014. The current and future disease burden of chronic 
+Hepatitis C virus infection in Egypt. Arab Journal of Gastreoenterology, 
+15(2), 45-52. 
+- World Bank, 2017. Egypt’s Viral Hepatitis Program: Burden and Response, 
+An Economic Analysis. Washington, D.C.: World Bank.
+- World Bank, 2017. Egypt’s Viral Hepatitis Program: Strengthening the 
+Monitoring Evaluation Capacity. Washington, D.C.: World Bank.
+- World Bank, 2017. Egypt’s Viral Hepatitis Program: Taking the National Plan 
+of Action a Step Forward. Washington, D.C.: World Bank.
+- World Bank, 2017. Egypt’s Viral Hepatitis Program: Treatment Program 
+Policy Analysis. Washington, D.C.: World Bank.
